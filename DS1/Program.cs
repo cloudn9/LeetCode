@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Challanges
+namespace DS1
 {
     internal class Program
     {
