@@ -1,9 +1,7 @@
-﻿using Challenges.Easy;
-
-using NUnit.Framework;
+﻿using NUnit.Framework;
 
 
-namespace Challenges.Test
+namespace DS1.Test
 {
     [TestFixture]
     public class TwoSumTest
@@ -37,7 +35,7 @@ namespace Challenges.Test
                 TwoSum.Solution(new int[] { 0, 4, 3, 0 }, 0), "Error");
         }
 
-      
+
 
     }
 }
