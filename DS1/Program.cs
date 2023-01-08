@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace DS1
+﻿namespace DS1
 {
     internal class Program
     {
