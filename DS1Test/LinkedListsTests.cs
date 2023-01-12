@@ -20,5 +20,17 @@ namespace DS1.Test
     {
       RemoveLinkedListElements.Solution(null, 6);
     }
+
+    [Test]
+    public static void Test3()
+    {
+      ReverseLinkedList.Solution(null);
+    }
+
+    [Test]
+    public static void Test4()
+    {
+      RemoveDuplicatesSortedList.Solution(null);
+    }
   }
 }
