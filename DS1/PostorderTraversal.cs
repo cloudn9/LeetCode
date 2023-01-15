@@ -2,7 +2,7 @@
 
 namespace DS1
 {
-  public static class PreorderTraversal
+  public static class PostorderTraversal
   {
     public static IList<int> Solution(TreeNode root)
     {
@@ -14,9 +14,9 @@ namespace DS1
     private static void TraverseTree(TreeNode root, List<int> result)
     {
       if (root == null) return;
-      result.Add(root.val);
       TraverseTree(root.left, result);
       TraverseTree(root.right, result);
+      result.Add(root.val);
     }
   }
 }
