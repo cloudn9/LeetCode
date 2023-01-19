@@ -19,11 +19,11 @@ namespace DS1
     /// <returns></returns>
     public static TreeNode Solution(TreeNode root, int val)
     {
-      var tree = new TreeNode(4,
-new TreeNode(2, new TreeNode(1), new TreeNode(3)),
-new TreeNode(7));
+      root = new TreeNode(4,
+                new TreeNode(2, new TreeNode(1), new TreeNode(3)),
+                new TreeNode(7));
 
-      InsertIn(root, val);
+      return InsertIn(root, val);
     }
 
     private static TreeNode InsertIn(TreeNode root, int val)
