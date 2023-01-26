@@ -26,7 +26,7 @@ namespace TopInterviewQuestions
     {
       if (k % 3 == 0)
       {
-        return k % 5 == 0 ? "FuzzBuzz" : "Fuzz";
+        return k % 5 == 0 ? "FizzBuzz" : "Fizz";
       }
       else if (k % 5 == 0)
       {
