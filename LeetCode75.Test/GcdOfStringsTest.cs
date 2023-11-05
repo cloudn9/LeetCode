@@ -1,8 +1,6 @@
 using NUnit.Framework;
 
-using LeetCode75;
-
-namespace TIQ.Test
+namespace LeetCode75.Test.Test
 {
     [TestFixture]
     public class GcdOfStringsTest
