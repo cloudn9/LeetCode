@@ -1,8 +1,6 @@
-﻿using System;
-
-namespace DS1
+﻿namespace DS1
 {
-  public static class RemoveLinkedListElements
+    public static class RemoveLinkedListElements
   {
     /// <summary>
     /// Input: head = [1,2,6,3,4,5,6], val = 6

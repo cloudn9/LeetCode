@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO.Pipes;
+﻿using System.Collections.Generic;
 using System.Linq;
 
 namespace DS1
 {
-  public static class ValidAnagram
+    public static class ValidAnagram
   {
     public static bool Solution(string s, string t)
     {

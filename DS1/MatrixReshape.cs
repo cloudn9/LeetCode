@@ -1,8 +1,6 @@
-﻿using System;
-
-namespace DS1
+﻿namespace DS1
 {
-  public static class MatrixReshape
+    public static class MatrixReshape
   {
     public static int[][] Solution(int[][] mat, int r, int c)
     {

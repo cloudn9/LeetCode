@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace DS1
 {
-  public static class Search2DMatrix
+    public static class Search2DMatrix
   {
     public static bool Solution(int[][] matrix, int target)
     {

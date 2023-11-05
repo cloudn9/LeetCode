@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Challanges
+﻿namespace Challanges
 {
     internal class Program
     {

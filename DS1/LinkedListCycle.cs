@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO.Pipes;
-using System.Linq;
+﻿using System.Collections.Generic;
 
 namespace DS1
 {
-  public static class LinkedListCycle
+    public static class LinkedListCycle
   {
     /// <summary>
     /// Input: head = [3,2,0,-4], pos = 1

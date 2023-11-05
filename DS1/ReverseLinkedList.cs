@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO.Pipes;
-using System.Linq;
-using System.Transactions;
-
-namespace DS1
+﻿namespace DS1
 {
-  public static class ReverseLinkedList
+    public static class ReverseLinkedList
   {
     /// <summary>
     /// Input: head = [1,2,3,4,5]

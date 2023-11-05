@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TopInterviewQuestions
+﻿namespace TopInterviewQuestions
 {
-  public static class FizzBuzz
+    public static class FizzBuzz
   {
     /// <summary>
     /// answer[i] == "FizzBuzz" if i is divisible by 3 and 5.

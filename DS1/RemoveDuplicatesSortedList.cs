@@ -1,8 +1,6 @@
-﻿using System;
-
-namespace DS1
+﻿namespace DS1
 {
-  public static class RemoveDuplicatesSortedList
+    public static class RemoveDuplicatesSortedList
   {
     /// <summary>
     /// Input: head = [1,1,2]

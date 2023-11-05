@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace DS1
+﻿namespace DS1
 {
-  public static class LowestCommonAccessorBST
+    public static class LowestCommonAccessorBST
   {
     public static TreeNode Solution(TreeNode root, TreeNode p, TreeNode q)
     {

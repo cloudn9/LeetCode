@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 
 namespace DS1
 {
-  public static class TwoSumInBST
+    public static class TwoSumInBST
   {
     static HashSet<int> seen = new HashSet<int>();
     /// <summary>

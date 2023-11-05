@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO.Pipes;
-using System.Linq;
+﻿using System.Collections.Generic;
 
 namespace DS1
 {
-  public static class RansomNote
+    public static class RansomNote
   {
     public static bool Solution(string ransomNote, string magazine)
     {

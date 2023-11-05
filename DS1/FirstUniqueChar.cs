@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 
 namespace DS1
 {
-  public static class FirstUniqueChar
+    public static class FirstUniqueChar
   {
     public static int Solution(string s)
     {

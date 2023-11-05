@@ -1,12 +1,6 @@
-﻿using System.Collections.Generic;
-using System.Collections.Immutable;
-using System.ComponentModel.DataAnnotations;
-using System.Net.Mime;
-using System.Xml.Linq;
-
-namespace TopInterviewQuestions
+﻿namespace TopInterviewQuestions
 {
-  public static class RemoveDuplicatesSortedArray
+    public static class RemoveDuplicatesSortedArray
   {
     /// <summary>
     // Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once.

@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace DS1
+﻿namespace DS1
 {
-  public static class SymmetricBinaryTree
+    public static class SymmetricBinaryTree
   {
     /// <summary>
     /// Input root = [1,2,2,3,4,4,3]

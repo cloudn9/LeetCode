@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Immutable;
-using System.ComponentModel.DataAnnotations;
-
-namespace TopInterviewQuestions
+﻿namespace TopInterviewQuestions
 {
-  public static class PlusOne
+    public static class PlusOne
   {
     /// <summary>
     // You are given a large integer represented as an integer array digits,

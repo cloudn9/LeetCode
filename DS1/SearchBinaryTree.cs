@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace DS1
+﻿namespace DS1
 {
-  public static class SearchBinaryTree
+    public static class SearchBinaryTree
   {
     /// <summary>
     /// Input: root = [4,2,7,1,3], val = 2

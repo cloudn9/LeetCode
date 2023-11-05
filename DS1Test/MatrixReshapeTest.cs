@@ -1,10 +1,8 @@
 ﻿using NUnit.Framework;
 
-using System.Linq;
-
 namespace DS1.Test
 {
-  [TestFixture]
+    [TestFixture]
   public class MatrixReshapeTest
   {
     [Test]

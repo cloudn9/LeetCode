@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Xml.Schema;
-
-namespace TopInterviewQuestions
+﻿namespace TopInterviewQuestions
 {
-  public static class RomanToInteger
+    public static class RomanToInteger
   {
     /// <summary>
     /// Symbol       Value

@@ -1,9 +1,6 @@
-﻿using System.Collections.Immutable;
-using System.ComponentModel.DataAnnotations;
-
-namespace TopInterviewQuestions
+﻿namespace TopInterviewQuestions
 {
-  public static class LongestCommonPrefix
+    public static class LongestCommonPrefix
   {
     /// <summary>
     // Write a function to find the longest common prefix string amongst an array of strings.

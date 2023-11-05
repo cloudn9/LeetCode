@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Xml.Schema;
 
 namespace DS1
 {
-  public static class MaxIceCream
+    public static class MaxIceCream
   {
     public static int Solution(int[] costs, int coins)
     {

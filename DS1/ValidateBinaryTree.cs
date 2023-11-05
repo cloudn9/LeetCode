@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Runtime.ConstrainedExecution;
 
 namespace DS1
 {
-  public static class ValidateBinaryTree
+    public static class ValidateBinaryTree
   {
     /// <summary>
     /// It is valid if

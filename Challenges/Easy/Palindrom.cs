@@ -1,6 +1,4 @@
-﻿using Microsoft.VisualBasic;
-
-using System;
+﻿using System;
 using System.Linq;
 
 namespace Challenges.Easy

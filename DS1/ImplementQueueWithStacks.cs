@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO.Pipes;
-using System.Linq;
+﻿using System.Collections.Generic;
 
 namespace DS1
 {
-  public static class ImplementQueueWithStacks
+    public static class ImplementQueueWithStacks
   {
     public static bool Solution()
     {

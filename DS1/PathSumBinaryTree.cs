@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace DS1
+﻿namespace DS1
 {
-  public static class PathSumBinaryTree
+    public static class PathSumBinaryTree
   {
     /// <summary>
     /// Input: root = [5,4,8,11,null,13,4,7,2,null,null,null,1], targetSum = 22

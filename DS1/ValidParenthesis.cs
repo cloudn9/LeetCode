@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO.Pipes;
 using System.Linq;
 
 namespace DS1
 {
-  public static class ValidParenthesis
+    public static class ValidParenthesis
   {
     public static bool Solution(string s)
     {

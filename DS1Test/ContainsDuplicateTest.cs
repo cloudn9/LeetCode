@@ -1,6 +1,4 @@
-﻿using DS1;
-
-using NUnit.Framework;
+﻿using NUnit.Framework;
 
 
 namespace DS1.Test

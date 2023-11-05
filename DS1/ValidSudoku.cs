@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 
 namespace DS1
 {
-  public static class ValidSudoku
+    public static class ValidSudoku
   {
     public static bool Solution(string[][] board)
     {

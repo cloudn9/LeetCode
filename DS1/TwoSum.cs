@@ -1,9 +1,8 @@
-﻿using System;
-using System.Linq;
+﻿using System.Linq;
 
 namespace DS1
 {
-  public static class TwoSum
+    public static class TwoSum
   {
     public static int[] Solution(int[] nums, int target)
     {
